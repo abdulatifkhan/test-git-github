@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 1140px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site-heading {
+  text-align: center;
+}
+
+.site-img {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.site-text {
+  color: chocolate;
+}
